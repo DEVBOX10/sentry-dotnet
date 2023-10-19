@@ -14,9 +14,9 @@
 
 ### Dependencies
 
-- Bump Cocoa SDK from v8.7.3 to v8.8.0 ([#2427](https://github.com/getsentry/sentry-dotnet/pull/2427), [#2430](https://github.com/getsentry/sentry-dotnet/pull/2430))
-  - [changelog](https://github.com/getsentry/sentry-cocoa/blob/main/CHANGELOG.md#880)
-  - [diff](https://github.com/getsentry/sentry-cocoa/compare/8.7.3...8.8.0)
+- Bump Cocoa SDK from v8.7.3 to v8.14.1 ([#2427](https://github.com/getsentry/sentry-dotnet/pull/2427), [#2430](https://github.com/getsentry/sentry-dotnet/pull/2430), [#34](https://github.com/DEVBOX10/sentry-dotnet/pull/34))
+  - [changelog](https://github.com/getsentry/sentry-cocoa/blob/main/CHANGELOG.md#8141)
+  - [diff](https://github.com/getsentry/sentry-cocoa/compare/8.7.3...8.14.1)
 - Bump CLI from v2.18.1 to v2.19.2 ([#2428](https://github.com/getsentry/sentry-dotnet/pull/2428), [#2431](https://github.com/getsentry/sentry-dotnet/pull/2431), [#2451](https://github.com/getsentry/sentry-dotnet/pull/2451))
   - [changelog](https://github.com/getsentry/sentry-cli/blob/master/CHANGELOG.md#2192)
   - [diff](https://github.com/getsentry/sentry-cli/compare/2.18.1...2.19.2)
